@@ -1,6 +1,6 @@
 package pages;
 
-import org.testng.Assert;
+import org.junit.Assert;
 
 import com.microsoft.playwright.Page;
 
